@@ -1,0 +1,13 @@
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.csprojAssemblyReference.cache
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.AssemblyInfoInputs.cache
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.AssemblyInfo.cs
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.csproj.CoreCompileInputs.cache
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.exe
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.deps.json
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.runtimeconfig.json
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.runtimeconfig.dev.json
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.dll
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\bin\Debug\netcoreapp3.1\ObjectOrientedDay1.pdb
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.dll
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.pdb
+D:\Csharp\ObjectOrientedDay1\ObjectOrientedDay1\obj\Debug\netcoreapp3.1\ObjectOrientedDay1.genruntimeconfig.cache

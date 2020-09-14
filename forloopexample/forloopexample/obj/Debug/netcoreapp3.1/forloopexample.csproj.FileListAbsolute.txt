@@ -1,0 +1,12 @@
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.exe
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.deps.json
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.runtimeconfig.json
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.runtimeconfig.dev.json
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.dll
+D:\Csharp\forloopexample\forloopexample\bin\Debug\netcoreapp3.1\forloopexample.pdb
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.AssemblyInfoInputs.cache
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.AssemblyInfo.cs
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.csproj.CoreCompileInputs.cache
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.dll
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.pdb
+D:\Csharp\forloopexample\forloopexample\obj\Debug\netcoreapp3.1\forloopexample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.exe
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.deps.json
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.runtimeconfig.json
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.runtimeconfig.dev.json
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.dll
+D:\Csharp\tryCsharpday1\tryCsharpday1\bin\Debug\netcoreapp3.1\tryCsharpday1.pdb
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.AssemblyInfoInputs.cache
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.AssemblyInfo.cs
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.csproj.CoreCompileInputs.cache
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.dll
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.pdb
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.genruntimeconfig.cache
+D:\Csharp\tryCsharpday1\tryCsharpday1\obj\Debug\netcoreapp3.1\tryCsharpday1.csprojAssemblyReference.cache
